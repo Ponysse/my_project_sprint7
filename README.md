@@ -4,6 +4,7 @@ My project for sprint 7 about Student Sleep Patterns
 Esta aplicación ofrece la posibilidad de visualizar dos tipos de gráficos:
 
 *La primera opción presenta un histograma, que permite observar la distribución de la duración del sueño entre los estudiantes.
+
 *La segunda opción muestra un gráfico de dispersión, diseñado para analizar la relación entre las horas dedicadas al estudio, las horas de sueño y la ingesta de cafeína.
 
 El usuario puede elegir visualizar solo uno de los gráficos o ambos de manera simultánea.
