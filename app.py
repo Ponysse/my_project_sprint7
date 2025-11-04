@@ -4,7 +4,7 @@ import plotly.express as px
 
 st.header('Student Sleep Patterns and Habits')
 
-sleep_df = pd.read_csv("notebooks\student_sleep_patterns.csv")# leer los datos
+sleep_df = pd.read_csv("notebooks/student_sleep_patterns.csv")# leer los datos
 # Casillas de verificación
 st.write("Select the chart(s) you want to create:")
 show_hist = st.checkbox('Histogram: Sleep Duration')
